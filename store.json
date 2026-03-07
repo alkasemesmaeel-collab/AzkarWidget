@@ -1,12 +1,7 @@
 [
   {
-    "name": "Golden Theme",
-    "preview": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/golden_preview.png",
-    "file": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/golden_theme.json"
-  },
-  {
-    "name": "Dark Theme",
-    "preview": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/dark_preview.png",
-    "file": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/dark_theme.json"
+    "name": "First Purple Theme",
+    "preview": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/first_preview.png",
+    "file": "https://raw.githubusercontent.com/USERNAME/REPO/main/themes/first_theme.json"
   }
 ]
