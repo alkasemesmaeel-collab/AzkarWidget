@@ -1,0 +1,16 @@
+{
+  "id": "purple_theme",
+  "name": "First Purple Theme",
+  "data": {
+    "bgMode": "solid",
+    "bgResName": "bg_1",
+    "bgColorStr": "#FF312E81",
+    "bgImageUri": "",
+    "textColorStr": "#FFFFFFFF",
+    "textSizeSpStr": "20.0",
+    "bold": true,
+    "glass": false,
+    "fontFamily": "cairo",
+    "borderEnabled": true
+  }
+}
