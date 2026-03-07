@@ -1,0 +1,16 @@
+{
+  "id": "green_islamic_theme",
+  "name": "Green Islamic Theme",
+  "data": {
+    "bgMode": "solid",
+    "bgResName": "bg_2",
+    "bgColorStr": "#FF064E3B",
+    "bgImageUri": "",
+    "textColorStr": "#FFFFFFFF",
+    "textSizeSpStr": "21.0",
+    "bold": true,
+    "glass": true,
+    "fontFamily": "amiri",
+    "borderEnabled": true
+  }
+}
