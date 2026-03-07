@@ -1,6 +1,8 @@
 [
   {
-      "name": "First Purple Theme",
+    "name": "Purple Night",
+    "author": "Azkar Widget",
+    "downloads": 120,
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5-itXkbLNJU6EDxJtm_hZsRjgYvkaSlhe-tWAI9VxxhZCVHNqmV__c0xYxfudJZayhgjiSMDBCWlElEaANPpvWmZS-NEuvTWgknPGt_EL4bkuVGhBeGTP-eQRnwSUepv6PaVpAh3nflb2NfujvfW4un-ytzHHhyphenhyphenbyPGa9C1EnQ8BeuH8DxoNZx0f8oIxl/s1241/first_preview.png",
     "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/refs/heads/main/first_theme.json",
     "isNew": true
