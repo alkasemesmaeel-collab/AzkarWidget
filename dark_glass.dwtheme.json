@@ -1,0 +1,16 @@
+{
+  "id": "dark_glass_theme",
+  "name": "Dark Glass Theme",
+  "data": {
+    "bgMode": "solid",
+    "bgResName": "bg_1",
+    "bgColorStr": "#FF111827",
+    "bgImageUri": "",
+    "textColorStr": "#FFE5E7EB",
+    "textSizeSpStr": "19.0",
+    "bold": false,
+    "glass": true,
+    "fontFamily": "tajawal",
+    "borderEnabled": true
+  }
+}
