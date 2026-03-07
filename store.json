@@ -10,7 +10,7 @@
   {
     "name": "First Purple Theme",
     "preview": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/previews/purple.png",
-    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/themes/purple_theme.dwtheme.json",
+    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/refs/heads/main/purple_theme.dwtheme.json",
     "isNew": true,
     "category": "colorful",
     "author": "Azkar Widget",
@@ -19,7 +19,7 @@
   {
     "name": "Dark Glass Theme",
     "preview": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/previews/dark_glass.png",
-    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/themes/dark_glass.dwtheme.json",
+    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/refs/heads/main/dark_glass.dwtheme.json",
     "isNew": false,
     "category": "glass",
     "author": "Azkar Widget",
@@ -28,7 +28,7 @@
   {
     "name": "Green Islamic Theme",
     "preview": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/previews/green_islamic.png",
-    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/main/themes/green_islamic.dwtheme.json",
+    "file": "https://raw.githubusercontent.com/alkasemesmaeel-collab/AzkarWidget/refs/heads/main/green_islamic.dwtheme.json",
     "isNew": true,
     "category": "islamic",
     "author": "Azkar Widget",
