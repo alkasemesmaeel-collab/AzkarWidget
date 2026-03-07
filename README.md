@@ -2,7 +2,7 @@
 # Image Preview
 
 ## image1
-![image1](image1.png)
+![image1](first_preview.png)
 
 ## image2
 ![image2](image2.png)
